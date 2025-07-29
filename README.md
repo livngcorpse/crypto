@@ -161,12 +161,3 @@ MIT License - see LICENSE file for details.
 
 **Remember: This is fake money, but your regret is real!** 😄
 """
-
-print("🎮 Fake Crypto World Bot - Complete and Ready to Deploy! 🎮")
-print("\n📋 Setup Checklist:")
-print("1. Install requirements: pip install -r requirements.txt")
-print("2. Set up PostgreSQL database")
-print("3. Get bot token from @BotFather")
-print("4. Configure .env file with your credentials")
-print("5. Run: python bot.py")
-print("\n🚀 Your bot will be ready to trade fake crypto with real prices!")
